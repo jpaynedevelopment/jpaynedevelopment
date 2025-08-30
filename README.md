@@ -9,9 +9,9 @@
 ---
 
 ## 🔹 Featured Projects
-- [**Arctic Sea Ice Decline: Linear Regression of March & September Trends**](#)  
+- [**Arctic Sea Ice Decline: Linear Regression of March & September Trends**](https://github.com/jpaynedevelopment/Arctic-Sea-Ice-Decline)  
   *Analyzing climate data to model seasonal ice decline and long-term change.*  
-- [**Political Sentiment Analysis with TextBlob**](#)  
+- [**Political Sentiment Analysis with TextBlob**](https://github.com/jpaynedevelopment/Political-Tweet-Sentiment---Trump-v-Biden)  
   *Measuring sentiment in tweets to compare public opinion trends.*  
 - **Coming Soon: Pop Culture Analytics**  
   *Exploring datasets around RuPaul’s Drag Race and other cultural phenomena.*  
